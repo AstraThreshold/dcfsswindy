@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+- 💬 A high school student from China.
+- 💬 Algorithmic lover
+- 💬 National Olympiad in Informatics in Provinces(NOIP)
+- 💬 Embedded lover
+- 💬 `STM32` `Arduino` `51`
+- 📫 eMail:Fir@Live.it
