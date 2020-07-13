@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 - 💬 National Olympiad in Informatics in Provinces(NOIP)
 - 💬 Embedded lover
 - 💬 `STM32` `Arduino` `51`
-- 📫 eMail:Fir@Live.it
+- 📫 eMail: Fir@Live.it
+
+##### *Fighting!*
