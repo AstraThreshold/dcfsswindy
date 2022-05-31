@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-- 💬 A high school student from China.
+- 💬 A student from China.
 - 💬 Algorithmic lover
 - 💬 National Olympiad in Informatics in Provinces(NOIP)
 - 💬 Embedded lover
