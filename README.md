@@ -1,1 +1,2 @@
-# I'm a _______ code genius.
+# "It's not possible". 
+# "No, it's necessary".
